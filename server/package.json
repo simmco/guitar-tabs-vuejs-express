@@ -15,6 +15,7 @@
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
     "express": "^4.15.4",
+    "joi": "^10.6.0",
     "morgan": "^1.8.2",
     "sequelize": "^4.8.2",
     "sqlite3": "^3.1.8"
